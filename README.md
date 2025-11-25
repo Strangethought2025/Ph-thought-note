@@ -137,7 +137,6 @@ A selection of categories is shown below.
 ---
 
 # 4. Keyword Tags  
-(Improves searchability across GitHub & Google.)
 
 ```
 discrete spacetime  
@@ -160,8 +159,7 @@ Every Technical Note should include the following footer:
 
 ```
 For the complete SEP framework and navigation tree, see:  
-Technical Note #0 — Master Index  
-https://zenodo.org/xxxxxx  ← (insert actual link)
+Technical Note #0 — Master Index ← (insert actual link)
 ```
 
 ---
