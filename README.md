@@ -172,4 +172,3 @@ Future updates will expand the Technical Notes directory and refine cross-links.
 
 ---
 
-# End of README (Master Index)
